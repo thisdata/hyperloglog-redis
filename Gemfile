@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 gem 'murmurhash3', '~> 0.1.3'
-gem 'redis', '~> 3.0.1'
+gem 'redis', '~> 3.2.0'
 
 group :development, :test do
   gem 'jeweler', '~> 1.8.4'

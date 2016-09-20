@@ -53,7 +53,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<timecop>, ["~> 0.5.3"])
     else
       s.add_dependency(%q<murmurhash3>, ["~> 0.1.3"])
-      s.add_dependency(%q<redis>, ["~> 3.0.1"])
+      s.add_dependency(%q<redis>, ["~> 3.2.0"])
       s.add_dependency(%q<jeweler>, ["~> 1.8.4"])
       s.add_dependency(%q<rake>, ["~> 0.9.2.2"])
       s.add_dependency(%q<rspec>, ["~> 2.11.0"])
